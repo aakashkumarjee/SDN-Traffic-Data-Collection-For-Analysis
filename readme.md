@@ -4,7 +4,7 @@ Steps to Run Traffic Dataset Collector
 
     Install ryu controller by "pip install ryu".
 
-    Install mininet from its github (Mininet is a Network Emulator).
+    Install mininet from its github (Mininet is a Network Emulator) https://github.com/mininet/mininet.
 
     Run controller.py on ryu by "ryu-manager controller.py"
 
