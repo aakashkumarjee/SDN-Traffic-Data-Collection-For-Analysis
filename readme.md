@@ -10,7 +10,7 @@ Steps to Run Traffic Dataset Collector
 
     Run mininet Topology with "sudo python topology.py" The topology created by this command is custom topology with 10 switches and 4 hosts. Topology Tree looks like following.
 
-                h1---s10---s3---s1---s2---s9---s2
+                h1---s10---s3---s1---s2---s9---h2
                          \     /   \     /
                           s4          s6
                          /    \     /   \
